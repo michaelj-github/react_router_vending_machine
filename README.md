@@ -2,9 +2,14 @@
 
 ## Solution notes
 
-    For this exercise I used starter files for a prior version of React for compatability.
+    For this exercise I used starter files for a prior version of React (16.14.0) for compatability.
     mkdir react_router_vending_machine && cd react_router_vending_machine && mkdir vending_machine && cd vending_machine
     copy starter files from recommended download for prior version
+
+```
+https://www.springboard.com/archeio/download/7f23f4f374db4e66a4384b6e47201217/
+```
+
     npm install
     npm install react-router-dom@5.2.1
 
