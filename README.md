@@ -27,4 +27,8 @@ Here’s an example of what this might look like.
 
 We had fun with the styling, don’t feel like your vending machine needs to be this fancy at all! You should not be working on any CSS until the application is completely functional
 
-![Vending Machine](https://curric.springboard.com/software-engineering-career-track/default/exercises/react-router-vending/_images/vending-machine.gif)
+```markdown
+<img src="https://curric.springboard.com/software-engineering-career-track/default/exercises/react-router-vending/_images/vending-machine.gif"/>
+```
+
+[Vending Machine](https://curric.springboard.com/software-engineering-career-track/default/exercises/react-router-vending/_images/vending-machine.gif)
